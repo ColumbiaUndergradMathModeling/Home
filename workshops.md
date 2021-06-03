@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops (2021-Present)
-permalink: /Home/workshops/
+permalink: /Home/Home/workshops/
 ---
 
 
