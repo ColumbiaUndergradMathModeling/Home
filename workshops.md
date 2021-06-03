@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops (2021-Present)
-permalink: /workshops/
+permalink: /Home/workshops/
 ---
 
 
@@ -9,7 +9,7 @@ permalink: /workshops/
 
 See the following links for term specific information about the Research workshops
 
-* [Fall 2021](/Home/workshops/Fa21/)
-* [Summer 2021](/Home/workshops/Su21/)
-* [Spring 2021](/Home/workshops/Sp21/)
+* [Fall 2021](/Home/Home/workshops/Fa21/)
+* [Summer 2021](/Home/Home/workshops/Su21/)
+* [Spring 2021](/Home/Home/workshops/Sp21/)
  
