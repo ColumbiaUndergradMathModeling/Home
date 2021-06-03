@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-You can use the [editor on GitHub](https://github.com/Undergraduate-Mathematical-Modeling/ColumbiaUMM/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# CSUREMM 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Columbia Summer Undergraduate Research Experiences in Mathematical Modeling
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CSUREMM is a full-time eight-week summer program for collaborative undergraduate research experiences in mathematical modeling. The purpose of the program is two-fold: to introduce the participants to some of the advanced topics in mathematical and statistical modeling and simulation encountered in modern interdisciplinary research; and to allow the participants to propose and develop collaborative interdisciplinary research projects under the joint mentorship of Columbia graduate students and faculty.
 
-```markdown
-Syntax highlighted code block
+There are three main activities that students will participate in during the program:
 
-# Header 1
-## Header 2
-### Header 3
+- Lectures in mathematical modeling
+- Interdisciplinary group project
+- Skills and curriculum development
 
-- Bulleted
-- List
+There will also be several (remote) social activities with students from other summer undergraduate research programs offered by the mathematics department.
 
-1. Numbered
-2. List
+## Eligibility
+The program is open to any continuing Barnard/Columbia undergraduate student, independent of U.S. residency. Women and historically underrepresented minorities are particularly encouraged to apply.
 
-**Bold** and _Italic_ and `Code` text
+## Background
+Previous coursework in linear algebra, probability, and ordinary differential equations is required. Previous experience with programming is highly recommended, but not mandatory.
 
-[Link](url) and ![Image](src)
-```
+## Contact
+For further inquiries please contact the program organizers:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Ivan Corwin [corwin@math.columbia.edu](corwin@math.columbia.edu)
+- George Dragomir [dragomir@math.columbia.edu](dragomir@math.columbia.edu)
 
-### Jekyll Themes
+----
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Undergraduate-Mathematical-Modeling/ColumbiaUMM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> _The program is jointly funded by the Department of Mathematics and the Department of Statistics at Columbia University, and by the NSF through DMS:1937254 - Research Training in Applied Mathematics at Columbia University._
