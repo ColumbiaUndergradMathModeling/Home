@@ -14,13 +14,10 @@
       </a>
 
       <div class="trigger">
-        {% assign pages_list = (site.pages | sort: 'nav_order') %}
+          <a class="page-link" href="/index.html">{{ "Home" }}</a>
+          <a class="page-link" href="/announce/">{{ "Announcements" }}</a>
+          <a class="page-link" href="/workshops/">{{ "Workshops (2021-Present)" }}</a>
 
-        {% for my_page in pages_list %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
       </div>
     </nav>
 
