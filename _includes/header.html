@@ -17,7 +17,7 @@
         {% assign pages_list = (site.pages | sort: 'nav_order') %}
 
         {% for my_page in pages_list %}
-          {% if my_page.title %}
+          {% if my_page.title == "Home" or my_page.title == "Announcements" or my_page.title == "Workshops (2021-Present)"" %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
