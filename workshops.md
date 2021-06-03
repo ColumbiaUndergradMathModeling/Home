@@ -2,13 +2,15 @@
 layout: page
 title: Workshops (2021-Present)
 permalink: /workshops/
+nav_order: 3
 ---
 
 
 # Links to pages for specific Workshops
 
 See the following links for term specific information about the Research workshops
-{{ site.baseurl }}{% link ./Fa21.md %}
-{{ site.baseurl }}{% link ./Su21.md %}
-{{ site.baseurl }}{% link ./Sp21.md %}
+
+* [Fall 2021](/workshops/Fa21/)
+* [Summer 2021](/workshops/Su21/)
+* [Spring 2021](/workshops/Sp21/)
  

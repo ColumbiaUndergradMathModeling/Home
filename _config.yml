@@ -1,5 +1,2 @@
 theme: jekyll-theme-slate
 
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
