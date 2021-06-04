@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Workshops (2021-Present)
+header: default
 permalink: /workshops/
 ---
 
