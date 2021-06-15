@@ -10,10 +10,10 @@ permalink: /workshops/
 
 See the following links for term specific information about the Research workshops
 
-* [Fall 2021](/workshops/Fa21/)
-* [Summer 2021](/workshops/Su21/)
-* [Spring 2021](/workshops/Sp21/)
-* change
+* [Fall 2021](/Home/workshops/Fa21/)
+* [Summer 2021](/Home/workshops/Su21/)
+* [Spring 2021](/Home/workshops/Sp21/)
+
 
 
 
