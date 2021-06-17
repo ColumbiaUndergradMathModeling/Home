@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 header: default
 title:  "Welcome to CSUREMM Summer 2021!"
 date:   2021-06-01 14:06:00 -0400
