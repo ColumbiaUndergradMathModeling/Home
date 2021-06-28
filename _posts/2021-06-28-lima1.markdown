@@ -1,0 +1,15 @@
+---
+layout: post
+header: default
+title:  "Alejandra Q. Lima: Probability Review"
+date:   2021-06-21 14:06:00 -0400
+categories: Website initial
+---
+
+Speaker: Alejandra Quintos Lima 
+Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjempUcUNsWHZFNHlQc2N5UT09)
+
+*Abstract*: 
+BRIEF BUT BROAD PROBABILITY REVIEW 
+
+This session is intended to be a quick Probability review for those familiar with the subject and a gentle introduction to those that are approaching the area for the 1st time. We will briefly cover the concept of randomness, random variables, some common distributions, collection of random variables, independence, Law of Large Numbers, Central Limit Theorem, and, if time permits, we will introduce the concept of stochastic processes in preparation for Thursday’s lecture. The focus will be on intuition rather than formality.
