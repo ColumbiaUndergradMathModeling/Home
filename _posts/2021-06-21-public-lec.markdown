@@ -19,6 +19,7 @@ List of confirmed speakers:
 * Alejandra Quintos Lima (Stats)
 * Kyle Mandli (Applied Mathematics)
 * Liam Paninski (Stats)
+* Judah Ryoo (Applied Mathematics)
 * Amir Sagiv (Applied Mathematics)
 * Simon Tavare (Mathematical Biology)
 * Chris Wiggins (Applied Mathematics)
