@@ -14,7 +14,7 @@ INTRODUCTION TO DYNAMICAL SYSTEMS (mini-course)
 
 Dynamical systems are a ubiquitous element of modeling. At the center of this field is a simple fundamental question - how do local, first-principle forces, shape the overall trajectory of a system in time? In this mini-course, we will focus on ordinary differential equations (ODEs), where the state of the system is prescribed by a vector in R^d or C^d. The starting point will be the following inconvenient fact: given an ODE
 
-$$\frac{d}{dt} \underline{x}(t)=f(\underline{x},t),   \underline{x}(t_0)=x_0 \in C^d$$
+x'(t)=f(x,t),   x(t_0)=x_0 in C^d
 
 we can rarely obtain explicit closed-form solutions. What information on the solutions can we still extract from such models?
 We will briefly touch on the following topics:
