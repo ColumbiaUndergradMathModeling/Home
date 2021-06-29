@@ -21,6 +21,7 @@ The workshop's overall goals are to provide undergraduate students at Columbia t
 ## Previous Workshops
 
 You can view the previous workshops [here](/Home/prevworkshops/).
+
 ____
 
 **Frequently Asked Questions**
