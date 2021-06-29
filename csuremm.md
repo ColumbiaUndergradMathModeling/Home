@@ -26,6 +26,9 @@ The program is open to any continuing Barnard/Columbia undergraduate student, in
 ## Background
 Previous coursework in linear algebra, probability, and ordinary differential equations is required. Previous experience with programming is highly recommended, but not mandatory.
 
+## Previous CSUREMM
+You can view the previous CSUREMM sessions [here](https://columbiaundergradmathmodeling.github.io/Home/prevcsuremm/).
+
 ## Contact
 For further inquiries please contact the program organizers:
 
