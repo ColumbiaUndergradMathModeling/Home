@@ -5,9 +5,7 @@ permalink: /csuremm/
 header: default
 ---
 
-# CSUREMM 
-
-## Columbia Summer Undergraduate Research Experiences in Mathematical Modeling
+# CSUREMM | Columbia Summer Undergraduate Research Experiences in Mathematical Modeling
 
 
 CSUREMM is a full-time eight-week summer program for collaborative undergraduate research experiences in mathematical modeling. The purpose of the program is two-fold: to introduce the participants to some of the advanced topics in mathematical and statistical modeling and simulation encountered in modern interdisciplinary research; and to allow the participants to propose and develop collaborative interdisciplinary research projects under the joint mentorship of Columbia graduate students and faculty.
@@ -37,4 +35,4 @@ For further inquiries please contact the program organizers:
 
 ----
 
-> _The program is jointly funded by the Department of Mathematics and the Department of Statistics at Columbia University, and by the NSF through DMS:1937254 - Research Training in Applied Mathematics at Columbia University._
+<!-- > _The program is jointly funded by the Department of Mathematics and the Department of Statistics at Columbia University, and by the NSF through DMS:1937254 - Research Training in Applied Mathematics at Columbia University._ -->
