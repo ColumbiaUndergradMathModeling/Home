@@ -6,7 +6,7 @@ header: default
 ---
 # CUMMW | Columbia Undergraduate Mathematical Modeling Workshop
 
-CUMMW is a four-week workshop offered to all Columbia undergraduate students who are interested in learning more about real world mathematical modelling. The workshop consists of a series of hands-on seminars led by faculty, postdoctoral fellows and graduate students. Participating students are gradually introduced to the full range of activities involved in pursuing scientific research, including project design, data analysis and interpretation, modelling and simulation, literature review, scientific writing, and interactive collaboration.
+CUMMW is a four-week workshop jointly run by the mathematics and statistics department and is offered to all Columbia undergraduate students who are interested in learning more about real world mathematical modelling. The workshop consists of a series of hands-on seminars led by faculty, postdoctoral fellows and graduate students. Participating students are gradually introduced to the full range of activities involved in pursuing scientific research, including project design, data analysis and interpretation, modelling and simulation, literature review, scientific writing, and interactive collaboration.
 
 The workshop also serves as preparation for students interested in participating in the [Mathematical/Interdisciplinary Contest in Modelling (MCM/ICM)](https://www.comap.com/undergraduate/contests/index.html), an annual international competition where teams of up to three undergraduate students or high school students work together to produce a paper on a real world open-ended problem. Teams of three students that complete the workshop will be sponsored to register for the annual MCM/ICM competition.
 
