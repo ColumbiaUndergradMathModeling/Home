@@ -15,7 +15,7 @@ Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjemp
 Syllabus: [DynSys21.pdf](https://columbiaundergradmathmodeling.github.io/Home/assets/REU21_DynSys_syllabus.pdf)
 
 *Abstract*: 
-NTRODUCTION TO DYNAMICAL SYSTEMS (mini-course)
+INTRODUCTION TO DYNAMICAL SYSTEMS (mini-course)
 
 Dynamical systems are a ubiquitous element of modeling. At the center of this field is a simple fundamental question - how do local, first-principle forces, shape the overall trajectory of a system in time? In this mini-course, we will focus on ordinary differential equations (ODEs), where the state of the system is prescribed by a vector in R^d or C^d. The starting point will be the following inconvenient fact: given an ODE
 
