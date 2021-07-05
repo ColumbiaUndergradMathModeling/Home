@@ -12,6 +12,8 @@ Date: 07-01-21 10:30AM EST
 
 Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjempUcUNsWHZFNHlQc2N5UT09)
 
+Notes: [Intro to Stochastic Analysis](https://columbiaundergradmathmodeling.github.io/Home/assets/Ioannis Karatzas - Overview of Stochastic Analysis.pdf)
+
 *Abstract*: 
 A BRIEF OVERVIEW OF STOCHASTIC ANALYSIS AND SOME OF ITS APPLICATIONS
 
