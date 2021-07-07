@@ -10,6 +10,6 @@ Speakers: Alejandra Lima, Judah Ryoo, Joe Suk
 
 Date: 07-09-21 10:30AM EST
 
-Link: https://gather.town/i/7Pc6E3IH  (Password has been sent via email to participants.)
+Link: [Here](https://gather.town/i/7Pc6E3IH)  (Password has been sent via email to participants.)
 
 We will talk about the reasons for going to graduate school and the reasons for not going to graduate school.
