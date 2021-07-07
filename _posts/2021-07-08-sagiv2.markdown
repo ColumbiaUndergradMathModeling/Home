@@ -1,0 +1,32 @@
+---
+layout: post
+header: default
+title:  "Amri Sagiv II: Mini-course on Dynamical Systems"
+date:   2021-07-08 10:30:00 -0400
+categories: Website initial
+---
+
+Speaker: Amir Sagiv (Part II)
+
+Date: 07-08-21 10:30AM EST
+
+Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjempUcUNsWHZFNHlQc2N5UT09)
+
+Syllabus/Attachments: [DynSys21.pdf](https://columbiaundergradmathmodeling.github.io/Home/assets/REU21_DynSys_syllabus.pdf) /
+[Exercises.pdf](https://columbiaundergradmathmodeling.github.io/Home/assets/DynSysExercises.pdf)
+
+*Abstract*: 
+INTRODUCTION TO DYNAMICAL SYSTEMS (mini-course)
+
+Dynamical systems are a ubiquitous element of modeling. At the center of this field is a simple fundamental question - how do local, first-principle forces, shape the overall trajectory of a system in time? In this mini-course, we will focus on ordinary differential equations (ODEs), where the state of the system is prescribed by a vector in R^d or C^d. The starting point will be the following inconvenient fact: given an ODE
+
+x'(t)=f(x,t), x(t_0)=x_0
+
+we can rarely obtain explicit closed-form solutions. What information on the solutions can we still extract from such models?
+We will briefly touch on the following topics:
+
+• Phase space portraits and long time asymptotics
+• Fixed points, stability and instability, limiting cycles
+• Bifurcations
+• Discrete systems and chaos
+• Numerical methods and numerical study of dynamical systems
