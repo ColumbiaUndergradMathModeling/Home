@@ -15,6 +15,8 @@ Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjemp
 Syllabus/Attachments: [DynSys21.pdf](https://columbiaundergradmathmodeling.github.io/Home/assets/REU21_DynSys_syllabus.pdf) /
 [Exercises.pdf](https://columbiaundergradmathmodeling.github.io/Home/assets/DynSysExercises.pdf)
 
+Notes: [Notes.pdf](https://columbiaundergradmathmodeling.github.io/Home/assets/REU21_DynSys_notes.pdf)
+
 *Abstract*: 
 INTRODUCTION TO DYNAMICAL SYSTEMS (mini-course)
 
