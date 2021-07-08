@@ -1,7 +1,7 @@
 ---
 layout: post
 header: default
-title:  "Amri Sagiv II: Mini-course on Dynamical Systems"
+title:  "Amir Sagiv II: Mini-course on Dynamical Systems"
 date:   2021-07-08 10:30:00 -0400
 categories: Website initial
 ---
