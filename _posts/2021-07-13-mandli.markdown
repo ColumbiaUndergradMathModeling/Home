@@ -1,0 +1,19 @@
+---
+layout: post
+header: default
+title:  "Kyle Mandli: The Mathematics of Predicting Coastal Flooding"
+date:   2021-07-13 10:30:00 -0400
+categories: Website initial
+---
+
+Speaker: Kyle Mandli
+
+Date: 07-13-21 10:30AM EST
+
+Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjempUcUNsWHZFNHlQc2N5UT09)
+
+*Abstract*: 
+
+Coastal hazards related to strong storms are one of the most ubiquitous of hazards to coastal communities throughout the world. In particular storm surge, the rise of the sea surface in response to wind and pressure forcing from these storms, can have a devastating effect at the coastline. Changes to the climate only compound the need for predictive tools that can also handle the uncertainty inherent in climate predictions. Computational approaches are of course the go to tool for dealing with these difficulties but it is a far from trivial problem. The problem is inherently multi-scale, the uncertainties difficult to represent, and the hyperbolic structure of the most well-used set of representative equations, the shallow water equations, presents additional issues when looking for low-rank approximations.
+
+This talk will describe many of these difficulties, where they come from, and what research efforts are attempting to address them. This includes extensions to the shallow water equations, techniques for representing the uncertainty and measuring sensitivity in the problem, and finally how reduce order modeling may help to produce low-rank approximations to hyperbolic equations in genera
