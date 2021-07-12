@@ -1,0 +1,19 @@
+---
+layout: post
+header: default
+title:  "Simon Tavaré: Cancer Statistics"
+date:   2021-07-15 10:30:00 -0400
+categories: Website initial
+---
+
+Speaker: Simon Tavaré
+
+Date: 07-15-21 10:30AM EST
+
+Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjempUcUNsWHZFNHlQc2N5UT09)
+
+
+*Abstract*: 
+
+This talk addresses some statistical and computational problems arising in the study of cancer evolution. The starting point comes from population genetics: how should we estimate evolutionarily relevant parameters from DNA sequence data taken from samples of individuals?
+I will give a brief overview of what we learned, touching on Approximate Bayesian Computation as an inference method when likelihoods are intractable. To illustrate ABC I will give an example concerning inference about the number of distinct DNA sequences in a sample, given only information about the relative frequency of point mutations in the samples. This provides an introduction to inference from typical cancer sequencing data, in which individuals are replaced by cells and in which typically we do not know which mutations occur in which cells. I will discuss a stochastic model that exploits coalescent theory to study  clonal sweeps, and describe new techniques for deconvolving clones from single cell sequencing data. Time permitting, I will describe some novel experimental methods we are developing to understand the 3D structure of tumors, paving the way for some challenging inferential problems that will require engagement from data scientists and others.
