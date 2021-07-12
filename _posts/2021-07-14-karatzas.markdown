@@ -1,0 +1,20 @@
+---
+layout: post
+header: default
+title:  "Ioannis Karatzas: Stochastic Analysis and Applications II"
+date:   2021-07-01 10:30:00 -0400
+categories: Website initial
+---
+
+Speaker: Ioannis Karatzas
+
+Date: 07-14-21 10:30AM EST
+
+Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjempUcUNsWHZFNHlQc2N5UT09)
+
+*Abstract*: 
+A BRIEF OVERVIEW OF STOCHASTIC ANALYSIS AND SOME OF ITS APPLICATIONS, Part II
+
+We develop Random Walk and its “continuum sibling”, the Brownian Motion, as stepping stones for introducing the concept of ballistic motion subjected to random fluctuations. This leads to theories of integration and differential equations that complement their Newtonian counterparts, and have rich connections with potential theory and partial differential equations. 
+
+We also show how this point of view can be applied to the modeling and optimization of real-world phenomena. We single out questions of optimal stopping, control, and filtering, and try to highlight the very rich Columbia tradition in these fields — and, more generally, in the theory and applications of Probability. Another very important such application, to finance, we leave for another day. 
