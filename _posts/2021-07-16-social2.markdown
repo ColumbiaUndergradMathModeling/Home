@@ -1,0 +1,8 @@
+---
+layout: post
+header: default
+title:  "Social Hour: Daily life as a graduate student"
+date:   2021-07-16 10:30:00 -0400
+categories: Website initial
+---
+This week's social hour, we will have our mentors (Joe Suk and Judah Ryoo) say a few words about daily life as a graduate student (pros and cons), and will take any question students might have!
