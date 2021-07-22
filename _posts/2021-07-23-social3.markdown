@@ -1,0 +1,8 @@
+---
+layout: post
+header: default
+title:  "Social Hour: Example of Prospective Graduate Student"
+date:   2021-07-16 10:30:00 -0400
+categories: Website initial
+---
+This week's social hour, we will have a prospective graduate student (Christian Serio) talk about why and how he got admission to graduate school and will take any question students might have!
