@@ -1,0 +1,19 @@
+---
+layout: post
+header: default
+title:  "Chris Wiggins: Data & Modeling"
+date:   2021-07-29 10:30:00 -0400
+categories: Website initial
+---
+
+Speaker: Chris Wiggins
+
+Chief Data Scientist at The New York Times
+Associate Professor, Applied Mathematics Columbia University
+
+Date: 07-29-21 10:30AM EST
+
+Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjempUcUNsWHZFNHlQc2N5UT09)
+
+
+______
