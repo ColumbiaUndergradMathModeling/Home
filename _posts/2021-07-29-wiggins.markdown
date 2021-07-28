@@ -9,6 +9,7 @@ categories: Website initial
 Speaker: Chris Wiggins
 
 Chief Data Scientist at The New York Times
+
 Associate Professor, Applied Mathematics Columbia University
 
 Date: 07-29-21 10:30AM EST
