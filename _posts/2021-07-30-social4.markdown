@@ -1,0 +1,8 @@
+---
+layout: post
+header: default
+title:  "Social Hour: Soft Skills Needed for Research"
+date:   2021-07-30 10:30:00 -0400
+categories: Website initial
+---
+This week's social hour, we will have professor Carsten Chong talk about what soft skills are needed to do well in research!
