@@ -1,7 +1,7 @@
 ---
 layout: post
 header: default
-title:  "Chris Wiggins: Data & Modeling"
+title:  "Chris Wiggins: Data Science at The New York Times"
 date:   2021-07-29 10:30:00 -0400
 categories: Website initial
 ---
@@ -16,5 +16,30 @@ Date: 07-29-21 10:30AM EST
 
 Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjempUcUNsWHZFNHlQc2N5UT09)
 
+
+
+*Abstract*
+
+The Data Science group at The New York Times develops and deploys machine learning solutions to newsroom and business problems.
+Re-framing real-world questions as machine learning tasks requires not only adapting and extending models and algorithms to new or special cases but also sufficient breadth to know the right method for the right challenge.
+
+I'll first outline how
+
+  - unsupervised,
+  - supervised, and
+  - reinforcement learning methods
+  
+are increasingly used in human applications for
+  - description,
+  - prediction, and
+  - prescription,
+  
+respectively.
+
+I'll then focus on the 'prescriptive' cases, showing how methods from the reinforcement learning and causal inference literatures can be of direct impact in
+
+  - engineering,
+  - business, and
+  - decision-making more generally.
 
 ______
