@@ -1,0 +1,29 @@
+---
+layout: post
+header: default
+title:  "Christian Kroer: Online Convex Optimization and Game Solving"
+date:   2021-08-03 10:30:00 -0400
+categories: Website initial
+---
+
+Speaker: Christian Kroer
+
+Speaker's bio: http://www.columbia.edu/~ck2945/ 
+
+Date: 08-03-21 10:30AM EST
+
+Link: [Lecture](https://columbiauniversity.zoom.us/j/93079929576?pwd=K1d1WHFjempUcUNsWHZFNHlQc2N5UT09)
+
+
+*Abstract*
+
+I will introduce some basics of game theory: Nash equilibrium and the special case of minimax theorems. Then, I will introduce the idea of online convex optimization, and show how this leads to constructive proofs of minimax theorems, as well as a practical method for solving real-world large-scale games.
+
+Reading: Boyd and Vandenberghe https://web.stanford.edu/~boyd/cvxbook/
+
+Basics of convex optimization: Ch. 2.1-2.3, 3.1-3.3
+If you have the time: 5.1-5.5, 4.1-4..4
+
+
+
+______
