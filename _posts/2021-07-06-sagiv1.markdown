@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "Amir Sagiv: Mini-course on Dynamical Systems"
 date:   2021-07-06 10:30:00 -0400
-categories: Website initial
+categories: Lecture
 ---
 
 Speaker: Amir Sagiv
