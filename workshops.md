@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops
+title: CUMMW
 permalink: /workshops/
 header: default
 ---
