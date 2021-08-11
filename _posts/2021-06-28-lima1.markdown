@@ -5,12 +5,7 @@ title:  "Alejandra Q. Lima: Probability Review"
 date:   2021-06-29 10:30:00 -0400
 tags: Lecture
 ---
-<span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
+
 Speaker: Alejandra Quintos Lima 
 
 Date: 06-29-21 10:30AM EST
