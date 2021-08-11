@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "Christian Kroer: Online Convex Optimization and Game Solving"
 date:   2021-08-03 10:30:00 -0400
-categories: Website initial
+categories: Lecture
 ---
 
 Speaker: Christian Kroer
