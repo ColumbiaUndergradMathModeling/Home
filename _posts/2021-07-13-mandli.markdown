@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "Kyle Mandli: The Mathematics of Predicting Coastal Flooding"
 date:   2021-07-13 10:30:00 -0400
-categories: Website initial
+categories: Lecture
 ---
 
 Speaker: Kyle Mandli
