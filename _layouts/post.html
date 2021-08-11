@@ -21,10 +21,6 @@ header: default
         {{ content }}
       </div>
     </div>
-</article>
-  </div>
-  </main>
-    {% include footer.html %}
   
   <div class="post-categories">
   {% if post %}
@@ -37,6 +33,14 @@ header: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
+  
+  
+</article>
+  </div>
+  </main>
+    {% include footer.html %}
+  
+  
 
   </body>
 
