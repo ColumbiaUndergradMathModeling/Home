@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "Women in STEM: A Panel"
 date:   2021-08-06 12:00:00 -0400
-categories: Website initial
+categories: Program
 ---
 On Friday, Aug 6 12:00 PM ET, our own mentor Alejandra Lima will be hosting a panel dedicated to women interested in entering into the STEM field. Please join!
 
