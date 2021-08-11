@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "CSUREMM 2021 Deadlines"
 date:   2021-07-28 19:00:00 -0400
-categories: Website initial
+categories: Program
 ---
 Reminders and deadlines for CSUREMM participants:
 
