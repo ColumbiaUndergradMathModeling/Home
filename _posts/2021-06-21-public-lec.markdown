@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "Zoom Link: Public Lectures by Invited Speakers"
 date:   2021-06-21 14:06:00 -0400
-categories: Website initial
+categories: Welcome
 ---
 
 Guest speakers will give lectures and mini-courses every **Tuesdays** and **Thursdays during 10:30-12:00 EST**. 
