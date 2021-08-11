@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "Alejandra Q. Lima: Probability Review"
 date:   2021-06-29 10:30:00 -0400
-categories: Website initial
+categories: Lecture
 ---
 
 Speaker: Alejandra Quintos Lima 
