@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "Ioannis Karatzas: Stochastic Analysis and Applications"
 date:   2021-07-01 10:30:00 -0400
-categories: Website initial
+categories: Lecture
 ---
 
 Speaker: Ioannis Karatzas
