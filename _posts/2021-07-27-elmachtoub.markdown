@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "Adam Elmachtoub: Pricing Analytics for Reusable Resources"
 date:   2021-07-27 10:30:00 -0400
-categories: Website initial
+categories: Lecture
 ---
 
 Speaker: Adam Elmachtoub
