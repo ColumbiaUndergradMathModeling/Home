@@ -3,7 +3,7 @@ layout: post
 header: default
 title:  "Chris Wiggins: Data Science at The New York Times"
 date:   2021-07-29 10:30:00 -0400
-categories: Website initial
+categories: Lecture
 ---
 
 Speaker: Chris Wiggins
